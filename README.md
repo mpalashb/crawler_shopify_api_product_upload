@@ -1,6 +1,6 @@
 # Async Python Crawler to Upload Products into Shopify Store
 
-\*\*Notes: This repository contains paid code. To access the full source code, please contact us.
+### \*\*Notes: This repository contains paid code. To access the full source code, please contact us.
 
 ## Overview
 
@@ -12,7 +12,7 @@ This Python script offers a powerful solution for automation the process of Amaz
 
 ## Video Demo
 
-Watch a brief video [Watch the video](https://www.youtube.com/watch?v=VRyOiY5LCNQ)
+Watch a brief video [![Watch the video](screenshots/shopify_uploader_async_python_crawler_youtube_icon.png)](https://youtu.be/VRyOiY5LCNQ)
 
 ## Screenshots
 
